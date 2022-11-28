@@ -12,6 +12,7 @@ namespace StackUsingSingleLinkList
         public node next;
         public node(int i, node n)
         { 
+            
         }
     }
     
